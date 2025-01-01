@@ -1,3 +1,2 @@
-require("settings.plugins")
-require("settings.core")
-
+require("core")
+require("plugins")
